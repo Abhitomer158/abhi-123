@@ -27,7 +27,7 @@ position: sticky;
 }
 .nav2{
     display: flex;
-    gap: 4vw;
+    gap: 3vw;
     align-items: center;
 }
 .nav h2{
@@ -311,5 +311,6 @@ line-height: 11vw;
 }
 
 }
+
 
 
